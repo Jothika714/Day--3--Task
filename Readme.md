@@ -1,0 +1,1 @@
+Day 03 task includes XMLHttpRequest and Function are using in problems.
